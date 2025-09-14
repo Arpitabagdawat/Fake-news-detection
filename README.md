@@ -35,9 +35,14 @@ It demonstrates the complete workflow of *data preprocessing, vectorization, mod
 ## 📂 File Structure
 
 Fake-news-project/
- ├── Fake.csv                  
- ├── True.csv                  
- ├── news.csv                  
- ├── Fake_news_detection.ipynb 
- ├── requirements.txt          
- └── README.md                 
+ Fake.csv 
+ 
+ True.csv 
+ 
+ news.csv
+ 
+ Fake_news_detection.ipynb
+ 
+ requirements.txt 
+ 
+ README.md                 
