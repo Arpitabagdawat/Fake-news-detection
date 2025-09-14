@@ -31,6 +31,13 @@ It demonstrates the complete workflow of *data preprocessing, vectorization, mod
 - Experiment with advanced models (Random Forest, XGBoost, LSTM, BERT).  
 - Deploy as a *Streamlit/Flask web app*.  
 
----
 
 ## 📂 File Structure
+
+Fake-news-project/
+ ├── Fake.csv                  
+ ├── True.csv                  
+ ├── news.csv                  
+ ├── Fake_news_detection.ipynb 
+ ├── requirements.txt          
+ └── README.md                 
